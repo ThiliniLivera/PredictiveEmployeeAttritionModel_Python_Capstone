@@ -1,0 +1,1 @@
+In this Capstone project, I have cleaned and analyzed the dataset I downloaded from Kaggle to predict if the employees are satisfied with their job and decide to remain at the firm or if they are unsatisfied with their job and decide to leave the firm.
