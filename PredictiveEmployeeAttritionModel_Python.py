@@ -6,6 +6,10 @@
 # 
 
 
+# ## I have perticularly used the PACE method for this data analysis project. P: Plan; A: Analysing; C: Construct; E: Execute.
+#
+
+
 # ## **Pace 1: Plan**
 # 
 
